@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\C++\Engine Fun\DidEA\bin\Debug-x64\DidEA\DidEA.dll</FullPath>
+      <FullPath>E:\Github\DidEA\bin\Debug-x64\DidEA\DidEA.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\C++\Engine Fun\DidEA\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
+      <FullPath>E:\Github\DidEA\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
